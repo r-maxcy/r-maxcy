@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Howdy! 👋
+- 🌱 I’m currently learning anything I can in the world of analytics and Data Engineering
+- 🤔 I’m looking for help with finding educational resources, preferably textbooks/written guides.
 <!--
 **r-maxcy/r-maxcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
